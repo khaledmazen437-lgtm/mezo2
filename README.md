@@ -14,8 +14,6 @@ Check out the live version here: **[Link to Vercel/GitHub Pages]** *(Don't forge
 
 ## 📸 Screenshots
 | Desktop View | Mobile View |
-|:---:|:---:|
-| ![Desktop](PLACE_IMAGE_URL_HERE) | ![Mobile](PLACE_IMAGE_URL_HERE) |
 
 ---
 
@@ -37,9 +35,9 @@ This project was built using:
 
 ## 👨‍💻 Author
 **Mazen Khaled**
-* **LinkedIn:** [Your LinkedIn Profile](Link)
-* **Behance:** [Your Behance Profile](Link)
-* **Company:** Founder of [MHD Tech](Link)
+* **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/mazen-khaled-00aabb375?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+* **Behance:** [Your Behance Profile](https://www.behance.net/mazenkhaled37
+* **Company:** Founder of [MHD Tech](https://www.facebook.com/share/17q3TwPkC7/)
 
 ---
 Made with ❤️ and ☕ by **Mazen**
