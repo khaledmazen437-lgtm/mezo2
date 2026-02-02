@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 Live Demo
-Check out the live version here: **[Link to Vercel/GitHub Pages]** *(Don't forget to replace this with your actual link!)*
+khaledmazen437-lgtm.github.io/mezo2/
 
 ---
 
